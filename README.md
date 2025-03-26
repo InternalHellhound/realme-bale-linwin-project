@@ -15,7 +15,7 @@ This repository is specified on **Linux upstream** / **Windows** maintenance for
 | Venus | `?` |
 | UFS 4.0 | Samsung KLUEG4RHHD-B0G1 |
 | Panel | bale_P_3_AB_714_DSC |
-| Cameras | IMX615, IMX882, IMX355 |
+| Cameras | LYT-808 - Main, RMX3851<br /> IMX882 - Main, RMX3852 <br /> IMX355 - Ultra-Wide, Both<br /> IMX615 - Front, Both<br /> GN5 - Telephoto, RMX3851<br /> |
 | Speakers | TFA9873 |
 | Touchscreen | Synaptics S3910 |
 | Bluetooth / Wi-Fi | WCN6750 |
