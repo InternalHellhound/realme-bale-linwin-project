@@ -1,8 +1,10 @@
+English | [Русский](README-RU.md)
+
 # About this repository
 
 This repository is specified on **Linux upstream** / **Windows** maintenance for:
-- [<ins>realme GT Neo6 / RMX3852 / bale<ins/>](https://www.gsmarena.com/realme_gt_neo6-12991.php)
-- [<ins>realme GT6 / RMX3851 / bale<ins/>](https://www.gsmarena.com/realme_gt_6-13103.php)
+- [<ins>Realme GT Neo6 / RMX3852 / bale<ins/>](https://www.gsmarena.com/realme_gt_neo6-12991.php)
+- [<ins>Realme GT6 / RMX3851 / bale<ins/>](https://www.gsmarena.com/realme_gt_6-13103.php)
 
 ## Device specifications
 
@@ -14,7 +16,7 @@ This repository is specified on **Linux upstream** / **Windows** maintenance for
 | GPU | Adreno 735 |
 | Venus | `?` |
 | UFS 4.0 | Samsung KLUEG4RHHD-B0G1 |
-| Panel | bale_P_3_AB_714_DSC |
+| Panel | bale_P_3_AB_714_DSC<br /> bale_P_3_AB_715_DSC |
 | Cameras | LYT-808 - Main, RMX3851<br /> IMX882 - Main, RMX3852 <br /> IMX355 - Ultra-Wide, Both<br /> IMX615 - Front, Both<br /> GN5 - Telephoto, RMX3851<br /> |
 | Speakers | TFA9873 |
 | Touchscreen | Synaptics S3910 |
@@ -31,7 +33,7 @@ This repository is specified on **Linux upstream** / **Windows** maintenance for
 ### ⚠️ Warning
 > [!CAUTION]
 > - We're not responsible for bricked devices, missing recovery partitions, wiped bootloaders and UFS, dead realme factoryline workers, dead pmics, dead ram, blown up displays, fried CPUs, device detonations, any bbk conspiracy, dead cats or dogs, nuclear wars or you getting fired because you forgot to boot back into android for the alarm.
-> - This project is in early stages of development, all the files here have been contributed by other users, here you will find a guide with the working parts we managed to get to work. This is a delicate process, do it under your own risk and follow all the steps carefully.
+> - This project is in early stages of development, all the files here have been contributed by other users, here you will find guides to get project with the working parts we managed to get to work. This is a delicate process, do it under your own risk and follow all the steps carefully.
 
 > [!WARNING]
 > **If you're not comfortable with modding your phone or its partition table, or worried about bricking your device, it's okay to take a step back. But the process is simple, so even beginners can handle it. Just follow the instructions carefully, and you should be fine.**
