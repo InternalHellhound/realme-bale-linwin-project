@@ -13,7 +13,7 @@
 * First make sure to enable [USB debugging](https://developer.android.com/studio/debug/dev-options#enable) and OEM unlock in Android. Make sure you are also using **3rd party cable** and you already have backup of all of your data, since device **WILL BE ERASED** after unlocking bootloader!
 * Set your device language to English.
 * Log into your realme (heytap) account or sign it up on your device.
-* Download latest DeepTest for your device. Wait for last day of your current month at 7pm (UTC+3) or first day of your next month and then open it and press "Apply for deep testing".
+* [Download](https://github.com/InternalHellhound/realme-bale-linwin-project/releases/download/DeepTest/GTNeo6_DeepTest.apk) latest DeepTest for your device. Wait for last day of your current month at 7pm (UTC+3) or first day of your next month and then open it and press "Apply for deep testing".
 * Wait approximately 5-7 days, you could get accepted even earlier.
 * If you got accepted, you will find a button "Enter deep testing". press it and you will be rebooted into bootloader.
 * Connect your device to PC, open terminal with android platform tools installed and write next command:
