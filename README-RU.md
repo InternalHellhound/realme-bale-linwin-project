@@ -1,4 +1,4 @@
-[English](README-RU.md) | Русский
+[English](README.md) | Русский
 
 # О репозитории / проекте
 
