@@ -1,8 +1,8 @@
 # About this repository
 
 This repository is specified on **Linux upstream** / **Windows** maintenance for:
-- [<ins>Realme GT Neo6 / RMX3852 / bale<ins/>](https://www.gsmarena.com/realme_gt_neo6-12991.php)
-- [<ins>Realme GT6 / RMX3851 / bale<ins/>](https://www.gsmarena.com/realme_gt_6-13103.php)
+- [<ins>realme GT Neo6 / RMX3852 / bale<ins/>](https://www.gsmarena.com/realme_gt_neo6-12991.php)
+- [<ins>realme GT6 / RMX3851 / bale<ins/>](https://www.gsmarena.com/realme_gt_6-13103.php)
 
 ## Device specifications
 
