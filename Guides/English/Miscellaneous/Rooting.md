@@ -46,7 +46,7 @@ $ adb sideload /path/to/gki-package.zip
 
 #### LKM mode (KernelSU only)
 - Move extracted init_boot image to your device.
-- Open installed KernelSU app.
+- Open installed your root manager app.
 - Choose "select a file" in installation choices, then choose extracted init_boot image in opened file manager. Patch the image.
 - Move patched init_boot image to your computer, then reboot your device into bootloader, connect it to computer and type into terminal:
 ```
@@ -55,4 +55,4 @@ $ fastboot flash init_boot /path/to/patched-init-boot.img
 Reboot your device into system and you are done!
 
 ### Magisk
-Perform same set of moves, which were described for [LKM mode](https://github.com/InternalHellhound/realme-bale-linwin-project/main/Guides/English/Miscellaneous/Rooting.md#lkm-mode).
+Perform same set of moves, which were described for [LKM mode in KernelSU](https://github.com/InternalHellhound/realme-bale-linwin-project/main/Guides/English/Miscellaneous/Rooting.md#lkm-mode).
