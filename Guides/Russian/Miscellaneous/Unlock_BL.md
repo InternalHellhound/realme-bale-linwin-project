@@ -1,5 +1,5 @@
 ## Откат на Android 14
-**Эта секция предназначена для тех, кто хочет разблокировать загрузчик, находясь на Android 15 и выше. Если же ваше устройство уже находится на 14-ой версии, вы смело можете приступать к [разблокировке](https://github.com/InternalHellhound/realme-bale-linwin-project/edit/main/Guides/English/Miscellaneous/Unlock_BL.md#oem-unlock). Данный откат сотрёт ВСЮ дату на вашем устройстве, так что первым делом, сделайте бекап.**
+**Эта секция предназначена для тех, кто хочет разблокировать загрузчик, находясь на Android 15 и выше. Если же ваше устройство уже находится на 14-ой версии, вы смело можете приступать к [разблокировке](https://github.com/InternalHellhound/realme-bale-linwin-project/blob/main/Guides/Russian/Miscellaneous/Unlock_BL.md#%D1%80%D0%B0%D0%B7%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0-%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA%D0%B0). Данный откат сотрёт ВСЮ дату на вашем устройстве, так что первым делом, сделайте бекап.**
 * Первым делом, нам нужно скачать [пакет для отката](https://rbp01.realme.net/GT_Neo6/RMX3852_11_A_OTA_0240_all_25cztf_10010111.zip).
 * Установите язык устройства на Английский.
 * Как только вы загрузили пакет, [включите параметры для разработчиков](https://developer.android.com/studio/debug/dev-options#enable).
