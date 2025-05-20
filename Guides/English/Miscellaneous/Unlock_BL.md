@@ -1,5 +1,5 @@
 ## Rolling back to Android 14
-**This section is written for those, who have updated their phones to Android 15 and wants to unlock bootloader. If your device already runs Android 14, you can skip this section and get straight to the [unlock](https://github.com/InternalHellhound/realme-bale-linwin-project/edit/main/Guides/English/Miscellaneous/Unlock_BL.md#oem-unlock). This procedure also WILL ERASE your data, so do all necessary data backup before rolling back.**
+**This section is written for those, who have updated their phones to Android 15 and wants to unlock bootloader. If your device already runs Android 14, you can skip this section and get straight to the [unlock](https://github.com/InternalHellhound/realme-bale-linwin-project/blob/main/Guides/English/Miscellaneous/Unlock_BL.md#oem-unlock). This procedure also WILL ERASE your data, so do all necessary data backup before rolling back.**
 * First and foremost, you need to get [rollback package](https://rbp01.realme.net/GT_Neo6/RMX3852_11_A_OTA_0240_all_25cztf_10010111.zip).
 * As soon as you download your rollback package, enable developer options on your device.
 * Turn on airplane mode on your device and find "Software update" (com.oplus.ota) app on your device.
