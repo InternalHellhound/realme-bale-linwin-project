@@ -1,5 +1,5 @@
 ## Preparation
-- [KernelSU Next](https://github.com/KernelSU-Next/KernelSU-Next/releases) / [Magisk](https://github.com/topjohnwu/Magisk/releases)
+- [KernelSU](https://github.com/tiann/KernelSU/releases) / [KernelSU Next](https://github.com/KernelSU-Next/KernelSU-Next/releases) / [Magisk](https://github.com/topjohnwu/Magisk/releases)
 - [Payload dumper go](https://github.com/ssut/payload-dumper-go)
 - Full ota package for your device
 - [Modified OrangeFox recovery](https://github.com/realme-pineapple-devs/recovery_device_realme_pineapple/releases)
@@ -32,10 +32,10 @@ $ payload-dumper-go.exe /path/to/payload.bin
 $ payload-dumper-go /path/to/payload.bin
 ```
 - Copy init_boot image from the folder where payload was extracted to (usually its "extracted-...") to your phone.
-### KernelSU Next
-There are 2 modes in which KernelSU can work: [GKI](https://kernelsu.org/guide/installation.html#gki-mode) and [LKM](https://kernelsu.org/guide/installation.html#lkm-mode)
+### KernelSU Next / KernelSU
+There are 2 modes in which KernelSU (Next) can work: [GKI](https://kernelsu.org/guide/installation.html#gki-mode) and [LKM](https://kernelsu.org/guide/installation.html#lkm-mode)
 
-#### GKI mode
+#### GKI mode (both)
 - Download AnyKernel3 release of KernelSU Next GKI for your kernel (e.g. AnyKernel3-android14-6.1.99_2024-10.zip. For our device related packages are android14-6.1.XX)
 - Reboot into custom recovery, then enable ADB sideload.
 - Connect your phone to computer and type next command into terminal:
@@ -44,9 +44,9 @@ $ adb sideload /path/to/gki-package.zip
 ```
 - Reboot into system and you are done! (Don't forget to install manager app)
 
-#### LKM mode
+#### LKM mode (KernelSU only)
 - Move extracted init_boot image to your device.
-- Open installed KernlSU Next app.
+- Open installed KernelSU app.
 - Choose "select a file" in installation choices, then choose extracted init_boot image in opened file manager. Patch the image.
 - Move patched init_boot image to your computer, then reboot your device into bootloader, connect it to computer and type into terminal:
 ```
