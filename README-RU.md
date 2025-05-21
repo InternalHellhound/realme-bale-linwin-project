@@ -1,8 +1,8 @@
 [English](README.md) | Русский
 
-# О репозитории / проекте
+# О репозитории
 
-Данный предназначен для портов **новых (upstream /mainline) ядер Linux** / **Windows** для следующих устройств:
+Данный репозиторий предназначен для портов **новых (upstream /mainline) ядер Linux** / **Windows** для следующих устройств:
 - [<ins>realme GT Neo6 / RMX3852 / bale<ins/>](https://www.gsmarena.com/realme_gt_neo6-12991.php)
 - [<ins>realme GT6 / RMX3851 / bale<ins/>](https://www.gsmarena.com/realme_gt_6-13103.php)
 
